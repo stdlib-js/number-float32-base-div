@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`30a60be`](https://github.com/stdlib-js/stdlib/commit/30a60be99f60b02f409f371bd9f8caf241059feb) - **chore:** update keywords [(#16278)](https://github.com/stdlib-js/stdlib/pull/16278) _(by Philipp Burckhardt)_
 -   [`a669750`](https://github.com/stdlib-js/stdlib/commit/a6697506a4937b6525520ced778c2e37c1ae714f) - **bench:** refactor C benchmarks to use pre-computed values [(#13798)](https://github.com/stdlib-js/stdlib/pull/13798) _(by Nakul Krishnakumar)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 -   [`c9560de`](https://github.com/stdlib-js/stdlib/commit/c9560dedc2ebc61dc8eb2bba775555841f175eea) - **docs:** refactor to use `logEachMap` in examples [(#11454)](https://github.com/stdlib-js/stdlib/pull/11454) _(by Lokesh Ranjan)_
@@ -26,11 +27,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Lokesh Ranjan
 -   Nakul Krishnakumar
+-   Philipp Burckhardt
 
 </section>
 
